@@ -13,7 +13,7 @@ In summary, this project aims to maintain data consistency across multiple insta
 
 <div align="center">
 
-![diagram](https://github.com/muhammetcagatay/cache-synchronization/assets/57941950/d3f30bcf-616e-46f9-b970-55c5d452bd6e)
+![Redis Pub Sub](assets/diagram.png "Redis Pub Sub")
 
 
 </div>
